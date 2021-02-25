@@ -84,10 +84,11 @@ body {
     background: var(--primary);
     border: 1px solid var(--primary-border);
 
-    font-size: 78px;
+    font-size: 170px;
     font-weight: bold;
     line-height: 100px;
     text-align: center;
+    color: var(--shape);
 
     float: left;
     cursor: pointer;
