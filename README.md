@@ -2,4 +2,4 @@
 
 Jogo da velha para praticar React.
 
-https://tic-tac-toe-react-alpha.vercel.app/
+Acesse em https://tic-tac-toe-react-alpha.vercel.app/
