@@ -1,3 +1,3 @@
 # Jogo da Velha em React
 
-Construindo um jogo da velha para praticar React.
+Jogo da velha para praticar React.
